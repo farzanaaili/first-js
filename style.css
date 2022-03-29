@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+  
+    background: #03a9f4;
+}
+section{
+    position: relative;
+    background: rgb(127, 202, 212);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.box1
